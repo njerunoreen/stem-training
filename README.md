@@ -13,3 +13,12 @@ strings operation
 ## Day four
 control flow
 if statements
+else/elif
+while loops 
+break ,continue
+for loops
+lists
+indexes
+strings as lists or not
+nexted lists
+matrixes
