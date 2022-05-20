@@ -1,0 +1,33 @@
+x=0
+if x>= 1  :
+        print("hey , i'm still here")
+x -=1
+print (x)
+print("done")
+#e'se statement
+x = 2
+if x == 10:
+     print (x)
+     
+else : 
+    print ("not 10")
+    
+ #elif to create grading system 
+ 
+grade = int(input("write student score: "))
+ 
+ if grade >=80 and  grade<=100 :
+     
+          print ("student got an A")
+ elseif : grade >=70 and grade <80 : 
+     
+  print ("student got a B")
+ elseif              
+     
+
+       
+    
+     
+ 
+     
+    
