@@ -22,3 +22,6 @@ indexes
 strings as lists or not
 nexted lists
 matrixes
+## Day two
+for loops
+ranges
