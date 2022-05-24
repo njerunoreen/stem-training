@@ -25,7 +25,11 @@ matrixes
 ## Day five
 for loops
 ranges
-##Day six
+## Day six
 lists
 tuples
 sets
+append
+clear
+pop
+remove
