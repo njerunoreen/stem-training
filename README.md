@@ -25,3 +25,7 @@ matrixes
 ## Day five
 for loops
 ranges
+##Day six
+lists
+tuples
+sets
