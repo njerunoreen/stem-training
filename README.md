@@ -34,3 +34,10 @@
 - pop
 - remove
 ## Day seven
+- kuccps application
+## Day eight
+- dictionaries
+- return
+- errors
+- def
+- functions
