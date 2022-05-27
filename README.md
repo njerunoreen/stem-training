@@ -41,3 +41,4 @@
 - errors
 - def
 - functions
+- editing text
