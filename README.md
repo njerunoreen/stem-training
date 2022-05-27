@@ -33,3 +33,4 @@
 - clear
 - pop
 - remove
+## Day seven
