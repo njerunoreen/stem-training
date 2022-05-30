@@ -44,3 +44,7 @@
 - editing text
 ## Day nine
 - object oriented programming
+## Day ten
+- graphic user interphase
+- repeat of dictionaries
+- inheritance
