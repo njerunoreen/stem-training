@@ -48,7 +48,6 @@
 - graphic user interphase
 - repeat of dictionaries
 - inheritance
-## Day ten
+## Day eleven
 - object oriented programming(class of a person)
-- person of student
-- modules
+- creating a click button
