@@ -52,3 +52,6 @@
 - object oriented programming(class of a person)
 - creating a click button
 - editing a click button
+## Day twelve
+- modules
+- inventory
