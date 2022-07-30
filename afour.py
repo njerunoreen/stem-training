@@ -42,7 +42,7 @@ p1= Person(name="mwende",age=22,date_of_birth=15,height=5,weight=58)
 p2=Person(name="wakio",age=15,date_of_birth=12,height=4,weight=44,) 
 p3=Person(name="wekendi",age=14,date_of_birth=11,height=3,weight=40,)
 
-print(p1.name,p1.age,p1.date_of_birth,p1.height,p1.weight 
+print(p1.name,p1.age,p1.date_of_birth,p1.height,p1.weight )
 print(p2.name,p2.age,p2.date_of_birth,p2.height,p2.weight) 
 print(p3.name,p3.age,p3.date_of_birth,p3.height,p3.weight) 
                

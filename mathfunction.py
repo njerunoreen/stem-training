@@ -7,8 +7,8 @@ print(math.log(4))
 print(math.pow(2,6))
 
 import calendar
-yy= 2907
-mm=8
+yy= 1705
+mm=6
 print(calendar.month(yy,mm))
 
 
