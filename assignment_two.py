@@ -14,7 +14,8 @@ if "*"== op_three:
     print(op*op_two)
 elif "/" == op_three :
     print(op/op_two)   
-
-       
-        
+elif "+" == op_three :    
+    print(op+op_two)      
+elif"-"  == op_three :
+    print(op-op_two)
        
