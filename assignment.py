@@ -11,3 +11,9 @@ sum = num1+num2
 print(sum)
 mult = num1*num2
 print(mult)
+sub = num1-num2
+print(sub)
+div = num1/num2
+print(div)
+mod = num1%num2
+print(mod)
